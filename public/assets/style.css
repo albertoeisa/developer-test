@@ -1,0 +1,21 @@
+html {
+	background: #ddd;
+}
+
+footer {
+	background: #eee;
+	padding: 50px 0;
+}
+
+.episode .media-body p {
+	font-family: 'PT Serif', serif;
+	font-size: 15px;
+	line-height: 25px;
+}
+
+.jumbotron {
+	font-family: 'Lobster', cursive;
+	background: url(img/triangle.png);
+	background-size: cover;
+	color: #000;
+}
