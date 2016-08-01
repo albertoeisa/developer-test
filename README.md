@@ -11,7 +11,7 @@ We have a built simple website that displays a list of TV episodes pulled from a
 * Review the list of issues below. Read through each one and ensure you understand the problems before you dive into the code
 * Fix each issue as best you can. Each fix should be contained in its own branch and you should open a Pull Request for each one. Instructions for how to format your Pull Request are below.
 
-##Running this code
+###Running this code
 
 Clone your fork of this project to a development environment that can run PHP 5.5+
 
@@ -20,7 +20,7 @@ Navigate to the directory you've just created and run `composer install`. If you
 Start your server with the `public` directory as your document root. If you are using the built in PHP server you can navigate to `public` and run `php -S localhost:8000` to start a server.
 
 
-##Notes on Pull Requests
+###Notes on Pull Requests
 
 * (https://help.github.com/articles/creating-a-pull-request/)[Creating a Pull Request]
 * Each issue you work on should be in its own branch. The branch should be named sensibly so that the issue can be identified e.g. `issue1`
