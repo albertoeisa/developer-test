@@ -22,7 +22,7 @@ Start your server with the `public` directory as your document root. If you are 
 
 ###Notes on Pull Requests
 
-* (https://help.github.com/articles/creating-a-pull-request/)[Creating a Pull Request]
+* Guidance on [Creating a Pull Request](https://help.github.com/articles/creating-a-pull-request/)
 * Each issue you work on should be in its own branch. The branch should be named sensibly so that the issue can be identified e.g. `issue1`
 * Pull Requests should be opened against the Master branch of your own fork (not against 3ev/developer-test)
 * Your Pull Request message should describe what has been fixed and include all the steps to test your work
