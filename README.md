@@ -15,7 +15,7 @@ We have a built simple website that displays a list of TV episodes pulled from a
 
 Clone your fork of this project to a development environment that can run PHP 5.5+
 
-Navigate to the directory you've just created and run `composer install`. If you do not have composer on your machine, you can use the version of composer included in this repository - run `composer.phar install`.
+Navigate to the directory you've just created and run `composer install`. If you do not have composer on your machine, you can use the version of composer included in this repository - run `php composer.phar install`.
 
 Start your server with the `public` directory as your document root. If you are using the built in PHP server you can navigate to `public` and run `php -S localhost:8000` to start a server.
 
